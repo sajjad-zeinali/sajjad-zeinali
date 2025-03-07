@@ -1,8 +1,6 @@
-# Hi there! 👋 I’m Sajjad Zeinali
+# Hi! I’m Sajjad Zeinali
 
-I’m a chemical engineering student with a passion for coding, especially in Python. I love diving into the world of programming, particularly focusing on **numerical methods** and their applications. Check out some of my work:
-
-- [Numerical-PDEs-In-ChE](https://github.com/sajjad-zeinali/Numerical-PDEs-In-ChE)  
+I’m a chemical engineering student with a passion for coding, especially in Python. I love tackling **numerical methods** and their applications. Check out my favorite work:  
 - [Collection-Of-Numerical-Methods-In-ChE](https://github.com/sajjad-zeinali/Collection-Of-Numerical-Methods-In-ChE)
 
 Coding is my way of solving real-world problems, and I’m excited to keep exploring this space!
@@ -15,6 +13,7 @@ Coding is my way of solving real-world problems, and I’m excited to keep explo
   - SciPy  
   - Matplotlib  
   - SymPy  
+  - python-telegram-bot  
 - **Focus**: Numerical methods and scientific computing  
 
 ## What I’m Interested In
@@ -28,6 +27,9 @@ I’m excited to continue my journey in **numerical methods**. My goal is to dee
 
 - **[Numerical-PDEs-In-ChE](https://github.com/sajjad-zeinali/Numerical-PDEs-In-ChE)**  
   A project focused on solving partial differential equations (PDEs) with Python. It’s a work in progress, and I plan to keep adding to it over time.
+
+- **[Telegram-Bots](https://github.com/sajjad-zeinali/Telegram-Bots)**  
+  A collection of Telegram bots for chemical engineering calculations, starting with an Ideal Gas Law calculator. More bots to come!
 
 ## Get in Touch
 
