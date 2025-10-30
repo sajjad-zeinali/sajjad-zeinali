@@ -31,6 +31,9 @@ I’m excited to continue my journey in **numerical methods**. My goal is to dee
 - **[Telegram-Bots](https://github.com/sajjad-zeinali/Telegram-Bots)**  
   A collection of Telegram bots for chemical engineering calculations, starting with an Ideal Gas Law calculator. More bots to come!
 
+- **[ChE-Cool-Calcs](https://github.com/sajjad-zeinali/ChE-Cool-Calcs)**  
+  Practical solutions to unique chemical engineering problems, starting with CSTR volume optimization.
+
 ## Get in Touch
 
 - **Email**: sajjad.zeinali.dev@gmail.com  
